@@ -4,7 +4,7 @@ Flutter V3.7.0
 
 # Screenshot
 
-![Screenshot](<WhatsApp Image 2023-11-29 at 1.54.25 AM.jpeg>)
+![Alt text](Screenshot.jpeg)
 
 ## Getting Started
 
