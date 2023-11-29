@@ -1,4 +1,3 @@
-import 'package:demo/screens/categories_screen.dart';
 import 'package:demo/screens/drawer_screen.dart';
 import 'package:flutter/material.dart';
 
